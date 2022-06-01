@@ -1,6 +1,9 @@
 # current-exchange-rate
 spring boot rest feign giphy openexchangerates mockito
 
+App url address:
+https://current-exchange-rate.herokuapp.com/
+
 To run the application locally:
 ```
 git clone https://github.com/MironovAlexanderJR/current-exchange-rate.git

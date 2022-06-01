@@ -22,7 +22,7 @@ public class CurrentExchangeRateController {
 
     @GetMapping("/")
     public String mainPage() {
-        return "Specify one of the currencies in the format: http://localhost:8080/RUB . " +
+        return "Specify one of the currencies in the format: https://current-exchange-rate.herokuapp.com/RUB . " +
                 "The base currency is USD.";
     }
 
